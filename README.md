@@ -14,7 +14,7 @@
 
 ## 📋*Project.*
 
-> **국조법-Pillar2 매핑 웹사이트**
+#> **국조법-Pillar2 매핑 웹사이트**
 > 
 
 https://github.com/lizkim0604/pillar2-mapping
@@ -38,7 +38,7 @@ https://pillar2-mapping.pages.dev/
  
 
 
-> **2026년 1기 부가가치세 확정신고 체크리스트**
+#> **2026년 1기 부가가치세 확정신고 체크리스트**
 > 
 
 https://github.com/lizkim0604/vat-checklist
@@ -63,7 +63,7 @@ https://checklist-vat.pages.dev/
 
 
 
-> **리스 회계 워크시트**
+#> **리스 회계 워크시트**
 > 
 
 https://github.com/lizkim0604/lease-calculator
@@ -84,7 +84,7 @@ https://github.com/lizkim0604/lease-calculator
 
 
 
-> **재무비율 자동 계산 웹앱**
+#> **재무비율 자동 계산 웹앱**
 > 
 - https://github.com/lizkim0604/fs-ratio
 - **문제정의**
@@ -100,7 +100,7 @@ https://github.com/lizkim0604/lease-calculator
 
 
 
-> **재무제표 기반 재무 이상징후 탐지기**
+#> **재무제표 기반 재무 이상징후 탐지기**
 > 
 - https://github.com/lizkim0604/dart-redflag
 - **문제 정의**
@@ -122,7 +122,7 @@ https://github.com/lizkim0604/lease-calculator
 
 
 
-> **회계사 수험생을 위한 가중치 기반 세법 오답 텔레그램 챗봇**
+#> **회계사 수험생을 위한 가중치 기반 세법 오답 텔레그램 챗봇**
 > 
 
 https://github.com/lizkim0604/tax-review-bot
@@ -144,7 +144,7 @@ https://github.com/lizkim0604/tax-review-bot
 
 ## **🗒️*Personal Project.***
 
-> **쇼핑리스트 자동 작성 도우미**
+#> **쇼핑리스트 자동 작성 도우미**
 > 
 
 https://github.com/lizkim0604/shopping-helper
@@ -162,7 +162,7 @@ https://github.com/lizkim0604/shopping-helper
 
 
 
-> **군부대 휴가 관리 자동화 서비스**
+#> **군부대 휴가 관리 자동화 서비스**
 > 
 
 https://github.com/lizkim0604/military-leave
