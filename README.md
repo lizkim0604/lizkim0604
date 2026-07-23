@@ -198,7 +198,7 @@ https://food--map.pages.dev
     - 평점, 방문일, 후기를 입력하여 저장
     - Cloudflare pages와 KV를 사용하여 다른 사람과 기록을 공유할 수 있도록 구현
 - **느낀 점**
-    - 다른 사람과 기록을 공유하기 위해서 별도의 저장소가 필요했는데, cloudflare KV 연결이 반복해서 오류가 발생하였다. github와 cloudflare 자체를 연결하는 방식으로 문제를 해결할 수 있었다. 
+    - 다른 사람과 기록을 공유하기 위해서 별도의 저장소가 필요했는데, Cloudflare KV와 Pages Functions를 연동했는데, 드래그앤드롭 방식으로 배포할 때 마다 functions 폴더가 배포에서 누락되어 API가 인식되지 않았다. GitHub저장소와 Cloudflare를 연결하여 파일 구조가 정확히 보존되도록 하여 문제를  해결할 수 있었다. 
 
 
 > **수습 공인회계사 키우기 웹게임**
